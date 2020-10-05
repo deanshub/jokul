@@ -1,5 +1,5 @@
 {
-  "installCommand": "yarn install --ignore-engines",
-  "buildCommand": "yarn build",
+  "installCommand": "install --ignore-engines",
+  "buildCommand": "build",
   "sandboxes": ["qhzrt"]
 }
