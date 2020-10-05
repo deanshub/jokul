@@ -1,5 +1,5 @@
 {
     "installCommand": "ci:install",
-    "buildCommand": "build",
+    "buildCommand": "build:quiet",
     "sandboxes": ["qhzrt"]
 }
