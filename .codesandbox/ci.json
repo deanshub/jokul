@@ -1,5 +1,5 @@
 {
-  "installCommand": "install --ignore-engines",
-  "buildCommand": "build",
-  "sandboxes": ["qhzrt"]
+    "installCommand": "ci:install",
+    "buildCommand": "build",
+    "sandboxes": ["qhzrt"]
 }
